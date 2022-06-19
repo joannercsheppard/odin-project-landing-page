@@ -10,3 +10,7 @@ Deviations from intial design:
 - Ignoring the text-sizing on the inital design and instead viewing the texts as relative to eachother and the webpage itself
 - All boxes being relative to eachother
 2. Some colours were not specified so I used colours similar
+
+Improvements:
+- Better colour accuracy to original design
+- Cleaner CSS styling. I could have reused containers and built on them. But all for knowing next time!
